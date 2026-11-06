@@ -1,0 +1,62 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Drop Shadow -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M30,76 L54,88 L78,76 L54,64 Z" />
+
+    <!-- Isometric Brick Top Face (Red) -->
+    <path
+        android:fillColor="#E52521"
+        android:pathData="M54,34 L80,47 L54,60 L28,47 Z" />
+
+    <!-- Isometric Brick Left Face (Darker Red) -->
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M28,47 L54,60 L54,75 L28,62 Z" />
+
+    <!-- Isometric Brick Right Face (Medium Red) -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M54,60 L80,47 L80,62 L54,75 Z" />
+
+    <!-- Stud 1 (Top Left) -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M37,42 L45,38 L45,41 L37,45 Z" />
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M41,36 C44,36 46,38 46,39 C46,40 44,42 41,42 C38,42 36,40 36,39 C36,38 38,36 41,36 Z" />
+
+    <!-- Stud 2 (Top Right) -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M49,36 L57,32 L57,35 L49,39 Z" />
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M53,30 C56,30 58,32 58,33 C58,34 56,36 53,36 C50,36 48,34 48,33 C48,32 50,30 53,30 Z" />
+
+    <!-- Stud 3 (Center Left) -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M49,48 L57,44 L57,47 L49,51 Z" />
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M53,42 C56,42 58,44 58,45 C58,46 56,48 53,48 C50,48 48,46 48,45 C48,44 50,42 53,42 Z" />
+
+    <!-- Stud 4 (Center Right) -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M61,42 L69,38 L69,41 L61,45 Z" />
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M65,36 C68,36 70,38 70,39 C70,40 68,42 65,42 C62,42 60,40 60,39 C60,38 62,36 65,36 Z" />
+
+    <!-- Yellow Accent Mini Plate on Side -->
+    <path
+        android:fillColor="#FFCE00"
+        android:pathData="M54,66 L70,58 L70,61 L54,69 Z" />
+</vector>

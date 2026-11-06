@@ -1,0 +1,6 @@
+{
+  "name": "BrixMix",
+  "description": "Select complexity from Micro to Extreme and forge random Lego creations using Gemini AI with classic Lego styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

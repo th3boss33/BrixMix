@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BrixMix</string>
+    <string name="nav_generator">Generator</string>
+    <string name="nav_visualizer">Blueprint</string>
+    <string name="nav_matrix">1100 Matrix</string>
+    <string name="nav_saved">My Builds</string>
+    <string name="nav_challenge">Challenge</string>
+    <string name="generate_new">Roll Random Creation</string>
+    <string name="piece_count_label">Piece Count</string>
+</resources>
